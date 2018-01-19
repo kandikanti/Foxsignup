@@ -1,0 +1,972 @@
+[main] 19:52:32,162 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 19:53:16,599 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 19:55:08,834 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 19:55:29,999 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 19:56:09,489 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 19:57:06,017 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 19:57:06,019 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 19:57:06,020 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 19:57:14,189 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 19:57:14,189 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 19:57:14,196 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:00:49,064 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:00:49,067 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:00:57,188 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:00:57,188 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:00:57,203 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:06:41,088 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:06:41,091 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:06:48,169 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:06:48,171 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:06:48,195 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:08:02,179 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:08:02,182 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:08:09,186 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:08:09,187 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:08:09,193 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:10:49,301 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:10:49,303 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:10:56,195 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:10:56,196 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:10:56,204 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:12:26,053 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:12:26,057 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:12:33,086 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:12:33,086 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:12:33,106 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:16:31,510 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:16:31,512 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:16:37,500 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:16:37,501 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:16:37,512 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:17:53,734 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:17:53,736 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:17:59,202 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:17:59,202 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:17:59,210 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:18:25,564 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:18:31,388 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:18:33,074 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:19:06,437 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:19:06,439 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:19:13,218 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:19:13,219 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:19:13,232 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:19:38,659 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:19:38,723 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:19:42,221 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:19:43,016 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:23:49,960 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:23:49,962 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:23:56,642 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:23:56,643 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:23:56,661 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:24:05,932 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:24:05,986 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:24:09,419 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:24:10,033 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:25:57,697 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:25:57,700 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:26:04,376 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:26:04,377 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:26:04,387 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:26:31,217 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:26:31,276 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:26:34,687 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:26:35,359 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:27:12,960 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:27:12,962 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:27:18,368 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:27:18,368 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:27:18,381 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:27:23,962 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:27:24,012 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:27:30,020 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:27:31,299 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:28:23,425 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:28:23,427 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:28:28,910 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:28:28,910 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:28:28,916 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:28:37,072 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:28:37,175 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:28:40,523 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:28:41,708 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:30:21,416 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:30:21,418 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:30:32,302 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:30:32,303 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:30:32,314 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:30:42,480 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:30:42,531 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:30:42,544 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:30:44,126 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:31:49,000 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:31:49,001 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:31:55,567 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:31:55,567 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:31:55,574 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:32:04,770 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:32:06,838 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:32:06,851 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:32:07,459 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:32:24,534 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 20:32:24,537 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 20:32:31,115 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:32:31,115 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 20:32:31,126 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:32:41,825 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:32:46,869 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:32:46,883 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:32:47,651 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:33:28,847 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:33:28,849 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:33:34,644 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:33:34,644 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:33:34,653 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:33:42,027 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:33:47,070 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:33:50,110 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:33:51,237 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 20:35:10,149 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 20:35:10,151 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 20:35:15,176 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 20:35:15,176 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 20:35:15,184 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 20:35:21,980 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 20:35:27,028 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 20:35:32,686 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 20:35:33,772 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:07:40,050 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:07:40,052 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:07:46,640 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:07:46,641 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:07:46,654 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:07:51,730 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:07:56,954 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:08:03,209 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:08:04,857 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:19:15,579 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:19:15,582 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:19:22,559 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:19:22,560 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:19:22,577 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:19:31,583 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:19:36,680 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:19:42,437 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:19:43,977 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:20:43,479 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:20:43,481 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:20:50,202 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:20:50,203 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:20:50,228 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:20:56,908 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:21:02,019 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:21:07,862 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:21:09,432 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:25:03,199 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:25:03,203 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:25:10,241 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:25:10,242 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:25:10,269 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:25:17,453 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:25:22,581 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:25:28,026 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:25:29,617 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:33:53,426 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:33:53,429 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:33:59,838 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:33:59,839 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:33:59,852 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:36:22,789 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:36:56,552 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:36:56,555 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:37:03,454 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:37:03,455 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:37:03,470 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:37:08,010 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:37:13,107 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:37:19,563 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:37:21,007 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:39:50,205 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:39:50,208 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:39:56,868 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:39:56,869 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:39:56,892 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:40:36,144 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:40:50,524 INFO  [com.fox.common.ReadPropertyFile] Value is:Chrome
+[main] 21:40:50,527 INFO  [com.fox.common.CommonFunctions] Browser = Chrome
+[main] 21:40:57,537 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:40:57,538 INFO  [com.fox.common.CommonFunctions] 
+Browser=chrome
+BrowserVersion=63.0.3239.132
+OS=Windows 10
+OSVersion=10.0
+[main] 21:40:57,549 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:42:52,156 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:43:54,151 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 21:43:54,154 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 21:44:05,453 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:44:05,453 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 21:44:05,470 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:44:30,694 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:44:35,760 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:44:39,542 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:44:40,848 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:49:22,172 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 21:49:22,175 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 21:49:30,201 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:49:30,201 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 21:49:30,213 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:49:44,079 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:49:49,213 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:49:52,002 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:49:53,899 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:51:46,483 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 21:51:46,485 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 21:51:54,129 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:51:54,131 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 21:51:54,148 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:52:25,749 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:52:30,840 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:52:30,852 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:52:31,576 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 21:57:00,726 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 21:57:00,729 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 21:57:08,740 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 21:57:08,741 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 21:57:08,762 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 21:57:39,248 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 21:57:44,328 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 21:57:47,387 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 21:57:48,981 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:01:46,428 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:01:46,430 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:01:54,913 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:01:54,914 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:01:54,931 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:02:06,788 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:02:11,862 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:02:15,343 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:02:16,252 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:04:02,040 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:04:02,042 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:04:10,371 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:04:10,372 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:04:10,390 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:04:23,807 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:04:28,903 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:04:31,721 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:04:33,573 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:08:17,150 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:08:17,153 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:08:25,349 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:08:25,349 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:08:25,367 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:08:38,282 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:08:43,444 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:08:46,210 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:08:48,086 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:09:38,445 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:09:38,450 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:09:46,755 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:09:46,756 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:09:46,772 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:10:03,756 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:10:08,861 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:10:12,854 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:10:13,759 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:11:00,013 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:11:00,016 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:11:07,782 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:11:07,783 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:11:07,801 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:11:21,475 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:11:26,560 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:11:29,655 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:11:30,855 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:12:42,396 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:12:42,398 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:12:51,704 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:12:51,705 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:12:51,718 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:13:06,046 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:13:11,143 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:13:14,018 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:13:15,063 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:14:54,678 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:14:54,680 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:15:02,971 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:15:02,971 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:15:02,987 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:15:14,373 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:15:19,447 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:15:23,091 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:15:24,208 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:20:17,575 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:20:17,578 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:20:24,206 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:20:24,207 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:20:24,220 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:20:36,527 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:20:41,600 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:20:44,225 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:20:45,117 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:23:37,770 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:23:37,772 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:23:44,429 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:23:44,429 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:23:44,442 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:23:55,339 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:24:00,397 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:24:03,108 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:24:03,959 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:35:01,650 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:35:01,655 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:35:08,329 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:35:08,330 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:35:08,343 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:35:18,950 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:35:23,998 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:35:24,012 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:35:24,609 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:36:26,243 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:36:26,245 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:36:32,870 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:36:32,871 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:36:32,886 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:36:44,449 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:36:49,504 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:36:52,110 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:36:53,055 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:38:38,856 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:38:38,860 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:38:46,201 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:38:46,202 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:38:46,219 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:38:55,879 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:39:00,931 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:39:03,553 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:39:04,393 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:41:00,812 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:41:00,814 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:41:07,471 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:41:07,473 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:41:07,488 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:41:25,006 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:41:30,064 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:41:32,734 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:41:33,542 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:47:46,600 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:47:46,602 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:47:53,226 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:47:53,227 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:47:53,239 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:48:03,007 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:48:08,074 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:48:11,530 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:48:12,141 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:49:19,285 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:49:19,287 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:49:26,081 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:49:26,082 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:49:26,092 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:49:36,879 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:49:41,942 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:49:45,108 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:49:45,792 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:50:33,854 INFO  [com.fox.common.ReadPropertyFile] Value is:Firefox
+[main] 22:50:33,856 INFO  [com.fox.common.CommonFunctions] Browser = Firefox
+[main] 22:50:40,504 INFO  [com.fox.common.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:50:40,506 INFO  [com.fox.common.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:50:40,514 INFO  [com.fox.common.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:50:45,557 INFO  [com.fox.common.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:50:50,659 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:50:54,199 INFO  [com.fox.common.CommonFunctions] Closing browser
+[main] 22:50:54,871 INFO  [com.fox.common.CommonFunctions] browser closed
+[main] 22:55:23,328 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 22:55:23,329 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 22:55:30,066 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:55:30,067 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:55:30,079 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:55:39,371 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:55:44,426 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:55:44,447 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 22:55:45,198 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 22:57:48,501 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 22:57:48,503 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 22:57:56,673 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 22:57:56,675 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 22:57:56,688 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 22:59:14,679 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 22:59:19,730 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 22:59:22,629 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 22:59:23,399 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:03:00,156 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:03:00,158 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:03:06,827 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:03:06,827 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:03:06,842 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:03:49,846 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:03:54,892 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:03:57,287 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:03:57,301 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:03:57,874 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:05:08,555 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:05:08,557 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:05:15,168 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:05:15,169 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:05:15,181 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:05:56,551 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:06:01,588 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:06:03,965 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:06:03,978 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:06:04,597 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:09:38,377 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:09:38,379 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:09:44,998 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:09:44,998 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:09:45,011 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:10:44,068 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:10:49,109 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:10:51,477 INFO  [com.fox.utilities.CommonFunctions] [Male] not found
+[main] 23:10:51,491 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:10:52,130 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:11:28,306 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:11:28,308 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:11:34,951 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:11:34,951 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:11:34,959 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:12:32,055 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:12:37,106 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:12:39,451 INFO  [com.fox.utilities.CommonFunctions] [Male] not found
+[main] 23:12:39,463 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:12:40,822 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:17:44,748 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:17:44,750 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:17:51,460 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:17:51,460 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:17:51,477 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:18:34,710 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:18:39,749 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:18:41,929 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:18:41,940 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:18:43,447 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:19:48,346 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:19:48,349 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:19:54,988 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:19:54,988 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:19:55,001 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:20:28,034 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:20:33,097 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:20:35,405 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:20:35,418 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:20:36,669 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:21:47,519 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:21:47,522 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:21:54,233 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:21:54,234 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:21:54,247 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:22:52,714 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:22:57,777 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:23:00,182 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:23:00,191 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:23:01,421 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:24:51,930 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:24:51,932 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:24:58,611 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:24:58,611 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:24:58,623 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:25:33,827 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:25:38,873 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:25:41,145 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:25:41,156 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:25:42,376 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:27:47,658 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:27:47,662 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:27:54,558 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:27:54,558 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:27:54,572 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:30:28,319 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:30:33,400 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:30:35,537 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:30:35,549 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:30:36,914 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:31:55,575 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:31:55,581 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:32:02,377 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:32:02,378 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:32:02,391 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:32:54,870 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:32:59,914 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:33:02,077 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:33:02,089 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:33:03,439 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:35:28,052 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:35:28,054 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:35:34,703 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:35:34,703 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:35:34,716 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:36:18,416 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:36:23,454 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:36:25,616 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:36:25,631 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:36:26,825 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:36:54,369 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:36:54,372 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:37:01,015 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:37:01,015 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:37:01,025 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:37:39,689 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:37:44,744 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:37:47,023 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:37:47,688 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:37:48,315 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:41:30,743 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:41:30,746 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:41:37,406 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:41:37,406 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:41:37,417 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:42:27,525 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:42:32,587 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:43:05,002 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:43:05,529 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:44:46,535 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:44:46,538 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:44:58,304 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:44:58,304 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:44:58,315 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:45:58,791 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:46:03,849 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:46:36,277 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:46:37,024 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:47:47,810 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:47:47,812 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:47:54,449 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:47:54,449 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:47:54,462 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:48:26,440 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:48:31,508 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:48:34,820 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:48:35,414 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 23:50:33,009 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 23:50:33,011 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 23:50:38,764 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 23:50:38,764 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 23:50:38,777 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 23:51:08,644 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 23:51:13,709 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 23:51:16,083 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 23:51:16,095 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 23:51:17,349 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 00:03:33,543 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:03:33,546 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:03:41,315 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 00:03:41,315 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 00:03:41,332 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:04:41,689 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 00:04:46,736 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 00:04:49,587 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 00:04:50,651 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 00:08:57,518 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:08:57,523 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:09:05,358 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 00:09:05,358 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 00:09:05,375 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:09:42,138 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 00:09:47,207 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 00:09:51,226 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 00:09:52,174 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 00:18:36,451 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:18:36,453 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:18:44,122 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 00:18:44,123 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 00:18:44,140 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:19:23,779 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 00:19:28,962 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 00:19:31,670 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 00:19:33,451 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 00:20:24,306 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:20:24,308 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:20:32,175 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 00:20:32,175 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 00:20:32,192 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:21:17,095 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 00:21:22,171 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 00:21:25,839 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 00:21:26,843 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 00:29:32,493 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:29:32,496 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:29:35,068 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:29:58,368 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:29:58,372 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:29:58,551 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:30:24,749 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:30:24,752 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:30:24,944 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:38:43,423 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:38:43,426 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:38:43,629 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:39:54,496 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 00:39:54,499 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 00:40:02,927 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 00:40:02,927 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 00:40:02,941 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 00:40:45,692 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 00:40:50,804 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 00:40:54,447 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 00:40:55,372 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 01:09:20,789 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 01:09:20,794 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 01:09:53,106 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 01:09:53,106 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 01:09:53,148 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 01:10:06,251 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 01:10:11,474 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 01:10:19,354 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 01:10:21,387 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 01:11:42,663 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 01:11:42,668 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 01:11:52,464 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 01:11:52,469 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 01:11:52,496 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 01:12:01,073 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 01:12:06,181 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 01:12:11,361 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 01:12:11,388 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 01:12:13,050 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 01:17:11,625 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 01:17:11,628 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 01:17:21,036 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 01:17:21,037 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 01:17:21,060 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 01:17:34,719 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 01:17:39,801 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 01:17:45,720 INFO  [com.fox.utilities.CommonFunctions] [479] not found
+[main] 01:17:45,753 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 01:17:47,693 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 01:18:23,844 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 01:18:23,848 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 01:18:31,921 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 01:18:31,921 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 01:18:31,944 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 01:18:45,834 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 01:18:50,920 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 01:18:55,462 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 01:18:55,492 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 01:18:56,919 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 01:20:05,850 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 01:20:05,853 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 01:20:13,369 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 01:20:13,371 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 01:20:13,403 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 01:20:21,640 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 01:20:26,777 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 01:20:32,811 INFO  [com.fox.utilities.CommonFunctions] [Female] not found
+[main] 01:20:32,861 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 01:20:34,161 INFO  [com.fox.utilities.CommonFunctions] browser closed
+[main] 01:24:05,578 INFO  [com.fox.utilities.ReadPropertyFile] Value is:Firefox
+[main] 01:24:05,583 INFO  [com.fox.utilities.CommonFunctions] Browser = Firefox
+[main] 01:24:12,823 INFO  [com.fox.utilities.CommonFunctions] Executed Before Class Method Successfully
+[main] 01:24:12,824 INFO  [com.fox.utilities.CommonFunctions] 
+Browser=firefox
+BrowserVersion=
+OS=Windows 10
+OSVersion=10.0
+[main] 01:24:12,856 INFO  [com.fox.utilities.ReadPropertyFile] Value is:https://www.fox.com
+[main] 01:24:27,666 INFO  [com.fox.utilities.CommonFunctions] navigating the url=https://www.fox.com
+[main] 01:24:32,766 INFO  [com.fox.page.Account_Signup]  Account Sign up page title verified...
+[main] 01:24:38,534 INFO  [com.fox.utilities.CommonFunctions] Closing browser
+[main] 01:24:39,747 INFO  [com.fox.utilities.CommonFunctions] browser closed

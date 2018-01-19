@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression" verbose="1" allow-return-values="true" parallel="true" data-provider-thread-count="10" junit="false" configfailurepolicy="skip" skipfailedinvocationcounts="false">
+
+  <test name="Regression">
+
+	<classes>
+		<class name="com.fox.test.TC_Signup"/>
+	</classes>
+   </test> <!-- Test -->  
+
+</suite> <!-- regression -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34293" started-at="2018-01-19T09:24:05Z" finished-at="2018-01-19T09:24:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34293" started-at="2018-01-19T09:24:05Z" finished-at="2018-01-19T09:24:39Z">
+      <class name="com.fox.test.TC_Signup">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.fox.test.TC_Signup@59fa1d9b]" name="setup" is-config="true" duration-ms="7360" started-at="2018-01-19T01:24:05Z" finished-at="2018-01-19T01:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigate()[pri:0, instance:com.fox.test.TC_Signup@59fa1d9b]" name="navigate" is-config="true" duration-ms="19821" started-at="2018-01-19T01:24:12Z" finished-at="2018-01-19T01:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="TC_Accountsignup()[pri:0, instance:com.fox.test.TC_Signup@59fa1d9b]" name="TC_Accountsignup" duration-ms="5836" started-at="2018-01-19T01:24:32Z" finished-at="2018-01-19T01:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Accountsignup -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.fox.test.TC_Signup@59fa1d9b]" name="after" is-config="true" duration-ms="1232" started-at="2018-01-19T01:24:38Z" finished-at="2018-01-19T01:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.fox.test.TC_Signup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
